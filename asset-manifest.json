@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/FrontEndMentor-3-Column-Preview-Card/static/css/main.6232a516.css",
-    "main.js": "/FrontEndMentor-3-Column-Preview-Card/static/js/main.bdb507d2.js",
+    "main.css": "/FrontEndMentor-3-Column-Preview-Card/static/css/main.02dcf46c.css",
+    "main.js": "/FrontEndMentor-3-Column-Preview-Card/static/js/main.b9171130.js",
     "static/media/icon-luxury.svg": "/FrontEndMentor-3-Column-Preview-Card/static/media/icon-luxury.7d6e1aefdc39c4742fbb039e7f97a503.svg",
     "static/media/icon-suvs.svg": "/FrontEndMentor-3-Column-Preview-Card/static/media/icon-suvs.058b664c311101933ebda84111ddd9b6.svg",
     "static/media/icon-sedans.svg": "/FrontEndMentor-3-Column-Preview-Card/static/media/icon-sedans.e794502801c486bcffc3513f6f03141e.svg",
     "index.html": "/FrontEndMentor-3-Column-Preview-Card/index.html",
-    "main.6232a516.css.map": "/FrontEndMentor-3-Column-Preview-Card/static/css/main.6232a516.css.map",
-    "main.bdb507d2.js.map": "/FrontEndMentor-3-Column-Preview-Card/static/js/main.bdb507d2.js.map"
+    "main.02dcf46c.css.map": "/FrontEndMentor-3-Column-Preview-Card/static/css/main.02dcf46c.css.map",
+    "main.b9171130.js.map": "/FrontEndMentor-3-Column-Preview-Card/static/js/main.b9171130.js.map"
   },
   "entrypoints": [
-    "static/css/main.6232a516.css",
-    "static/js/main.bdb507d2.js"
+    "static/css/main.02dcf46c.css",
+    "static/js/main.b9171130.js"
   ]
 }
